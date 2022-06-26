@@ -1,0 +1,176 @@
+A&O
+alert and oriented
+
+AC
+ante cibum (before meals)
+
+(B)
+bilateral
+
+BID 
+bis in die (twice a day)
+
+BMI
+body mass index
+
+BP
+blood pressure
+
+CC
+chief complaint
+
+c/o
+complains of
+
+CTA
+clear to auscultation
+
+d/c
+discontinue
+
+DC
+discharge (leave medical facility(
+
+DNR
+do not resuscitate
+
+Dx
+diagnosis
+
+DDx
+differential diagnosis
+
+ER
+emergency room
+
+f/u
+follow up
+
+FH/FHx
+family history
+
+h/o
+history of
+
+H&P
+history and physical
+
+HR
+heart rate
+
+Ht 
+height
+
+i/o
+intake and output (fluids)
+
+ICU
+intensive care unit
+
+IM
+intramuscular
+
+IV
+intravenous
+
+(L)
+left
+
+L&D
+labor and delivery
+
+N&V
+nausea and vomiting
+
+NAD
+no acute distress
+
+NICU
+neonatal intensive care unity
+
+NKDA
+no known drug allergies
+
+NPO
+nil per os (nothing by mouth)
+
+OR
+operating room
+
+PACU
+post-anesthesia care unity
+
+PC
+post cibum (after meals)
+
+PERRLA
+pupils equal, round, and reactive to light and accommodation
+
+PE
+physical exam
+
+PMH/PMHx
+past medical history
+
+PO
+per os (by mouth)
+
+post-op
+post-operative care
+
+PR
+per rectum (rectal)
+
+pre-op
+pre-operative care
+
+PRN
+per re nata (as needed)
+
+pt
+patient
+
+QD
+quaque die (once a day)
+
+QRS
+quaque hora smoni (at bedtime)
+
+(R)
+right
+
+ROS
+review of symptoms
+
+RR
+respiratory rate
+
+RRR
+regular rate and rhythm (heart)
+
+Rx
+therapy or prescription
+
+SC
+subcutaneous
+
+SH/SHx
+social history
+
+T
+temperature
+
+TID
+ter in die (three times a day)
+
+Tx
+treatment
+
+VS
+vital signs
+
+WDWN
+well developed, well nourished
+
+Wt
+weight

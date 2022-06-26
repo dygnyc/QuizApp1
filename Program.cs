@@ -68,6 +68,10 @@ void CheckCorrect(int index)
    
             break;
         }
+        else if (correct == "q")
+        {
+            System.Environment.Exit(0);
+        }
 
 
     }
@@ -75,7 +79,32 @@ void CheckCorrect(int index)
 
 void ReadStream()
 {
-    StreamReader sr = new StreamReader("..\\..\\..\\rootTerms.txt");
+    Console.WriteLine("1.abbreviations\n2.suffixes\n3.prefixes\n4.root");
+    string topic = Console.ReadLine();
+    string topicFile;
+    topicFile = "rootTerms.txt";
+
+    switch (topic)
+    {
+        case "1":
+            topicFile= "abbrev.txt";
+            break ;
+        case "2":
+            topicFile="suffixes.txt";
+            break;
+        case "3":
+            topicFile="prefixes.txt";
+            break;
+        case "4":
+            topicFile= "rootTerms.txt";
+            break;
+        default:
+            topicFile = "rootTerms.txt";
+            break;
+    }
+
+    StreamReader sr = new StreamReader("..\\..\\..\\"+topicFile);
+    //StreamReader sr = new StreamReader("..\\..\\..\\rootTerms.txt");
 
     string term = sr.ReadLine();
     string definition = sr.ReadLine();

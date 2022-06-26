@@ -1,0 +1,200 @@
+-algia
+pain
+
+-asis
+condition or state of
+
+-cide
+destroy
+
+-coele
+swelling or cavity
+
+-ectomy
+surgical removal
+
+-emia
+blood condition
+
+-genic
+producing
+
+-ia
+condition, abnormal state
+
+-otomy
+surgical opening
+
+-ostomy
+opening
+
+-pheresis
+removal
+
+-plasia
+formation or development
+
+-rhaphy
+surgical suture repair
+
+-scopy
+use of an instrument for viewing, process of looking
+
+-stenosis
+narrowing
+
+-version
+turning
+
+-tomy
+cutting operation, incision
+
+-ac
+pertaining to
+
+-ole
+small
+
+-cele
+hernia
+
+-ptosis
+drooping
+
+-al
+pertaining to
+
+-ule
+small
+
+-rrhage
+excessive flow
+
+-ar
+pertaining to
+
+-ula
+small
+
+-iasis
+presence of
+
+-rrhagia
+excessive flow
+
+-ary
+pertaining to
+
+-itis
+inflammation
+
+-rrhea
+flow
+
+-eal
+pertaining to
+
+-iatrics
+medical science
+
+-lysis
+loosen, break down
+
+-rrhexis
+rupture
+
+-ic
+pertaining to
+
+-iatry
+medical science
+
+-malacia
+abnormal softening
+
+-spasm
+involuntary contraction
+
+-tic
+pertaining to
+
+-iatrist
+specialist in medicine of
+
+-megaly
+enlargement
+
+-centesis
+puncture
+
+-ous
+pertaining to
+
+-ist
+specialist
+
+-oid
+resembling
+
+-gram
+written record
+
+-logist
+specialist in the study of
+
+-oma
+tumor
+
+-graph
+instrument to record
+
+-ism
+condition
+
+-logy
+study of
+
+-osis
+condition
+
+-graphy
+process of recording
+
+-ium
+tissue, structure
+
+-pathy
+disease
+
+-meter
+instrument to measure
+
+-y
+condition, procedure
+
+-dynia
+pain
+
+-penia
+deficiency
+
+-metry
+process of measuring
+
+-scope
+instrument to look
+
+-desis
+binding, fixation, bind together
+
+-pexy
+surgical fixation
+
+-rrhaphy
+suture
+
+-plasty
+reconstruction
+
+-stomy
+creation of an opening
