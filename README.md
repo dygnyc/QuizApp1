@@ -7,4 +7,4 @@ press q to quit
 
 //
 
-need to fix paths so it will run with compiled exe
+https://codemode.itch.io/medical-terminology-quiz
